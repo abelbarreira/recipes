@@ -1,26 +1,48 @@
 # Potaje (Receta)
 
-- Garbanzo 1 vaso.
+## Ingredientes
 
-- Garbanzo a calar el dia anterior por la noche
-  - Como estan duros, con bicarbonato y con sal
+- Garbanzos (1 vaso)
+- Pmiento
+- Cebolla
+- Espianacas
+- Ajos (dos o tres dientes)
+- Pimenton dulce (una cuchara)
+- Harina (una cuchara)
+- Aceite
+- Bicarbonato
+- Sal
+- Huevos (dos o tres)
 
-- Escurrirlos
+## Preparacion
 
-- Pone a cocer con agua, pero no mucho, nada mas que cubra o un poca mas, un deo o asi mas, aprox.
+- Los garbanzos a calar el dia anterior por la noche:
+  - Si está duros, se le pone con bicarbonato y con sal.
 
-- Pimiento, Ajos (dos o tres dientes), Laurel (una o dos hojas si hay)
+- Escurrir los garganzos
+- Poner los garbanzos en la cacerola
+- Poner agua:
+  - La cantidad de agua, que cubra los garbanzos, pero no mucho, como un dedo o asi, poco mas.
+- Poner Pimiento, Ajos (dos o tres dientes), Laurel (una o dos hojas si hay)
   - No poner sal
-
-- Cocer, cuando ya esten 3h o 4h.
-
-- Espinacas
-  - Aunque esten congeladas, cocer aparte y ese mismo agua de cocer de las espinacas se poner a los garbanzos.
-
-- Pica cebolla picadita
- - Aceite sarten, freir bien la cebolla, sin quemar, y se pone una cucharada pimenton, dulce, y se pone una cucharada de harina para que se espese, y cominos, ys se pone las espicanas, y se frie todo muy frito
- - Se pone al potaje
-
+- Poner a Cocer
+- Dejar cociendo unas 3h o 4h.
+- En una cacerola aparte:
+  - Poner a cocer las espinacas
+  - Despues de cocer, poner un poco del agua de cocer las espiancas en la cacerola de los garbanzos, y que siga cociendo.
+  - Importante que el agua que se agrege sea caliente que no se pare la coción de los garganzos.
+- En una sarten aparte:
+  - Picar la cebolla bien picadita.
+  - Agregar aceite y freir bien la cebolla, sin quemarla
+  - Agregar cucharada de pimenton dulce
+  - Agergar una cuchara de harina para que se espese
+  - Agregar cominos al gusto
+  - Agregar las espinacas cocidas
+  - Freir todo junto que se quede fritito
+  - Agregar esta mezcha a la a la cacerola de los garbanzos, y que siga cociendo.
 - Que siga codiendo (como 1h o asi, mas o menos)
-
 - Unos 20minutos de comer, se pone el Bacalao.
+
+## Servir
+
+- Para servir, se puede cocer los huevos y ponerlos en el plato.

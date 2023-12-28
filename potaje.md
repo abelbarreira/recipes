@@ -17,14 +17,14 @@
 ## Preparacion
 
 - Los garbanzos a calar el dia anterior por la noche:
-  - Si está duros, se le pone con bicarbonato y con sal.
+  - Si están duros, se le pone con bicarbonato y con sal.
 
 - Escurrir los garganzos
 - Poner los garbanzos en la cacerola
 - Poner agua:
   - La cantidad de agua, que cubra los garbanzos, pero no mucho, como un dedo o asi, poco mas.
 - Poner Pimiento, Ajos (dos o tres dientes), Laurel (una o dos hojas si hay)
-  - No poner sal
+  - No poner sal, no poner aceite
 - Poner a Cocer
 - Dejar cociendo unas 3h o 4h.
 - En una cacerola aparte:

@@ -1,19 +1,19 @@
-# Bacalo con Patatas
+# Bacalao con Patatas
 
 ## Ingredientes
 
-- Bacalo
+- Bacalao salado
 - Cebolla
 - Pimiento
 - Patatas (4 o 5 patatas)
- - La patata es la que espesa el caldito
+  - La patata es la que espesa el caldito
 - Ajos
 - Laurel
 - Aceite
 
 ## Proceso
 
-- Bacalo:
+- Bacalao:
 	- Lavar bien lavabo para quitar toda la sal
 	- Corter unos trocitos pequenitos
 	- Ponerlo en agua un rato, unos 15 o 20 min.
